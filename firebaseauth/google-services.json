@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260509623152",
+    "project_id": "praktika7-24e17",
+    "storage_bucket": "praktika7-24e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260509623152:android:82034275f3d4b61f02e5b5",
+        "android_client_info": {
+          "package_name": "com.mirea.vbeygul.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260509623152-4s749fdnnbsjjjkf4j8o154ekjnteqes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApM7V9zOKE8OGbIKa4TOUzNx4YxcH4om0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260509623152-4s749fdnnbsjjjkf4j8o154ekjnteqes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
